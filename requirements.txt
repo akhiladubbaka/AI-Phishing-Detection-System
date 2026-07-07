@@ -1,0 +1,12 @@
+Flask==3.0.3
+gunicorn
+numpy==2.2.6
+pandas==2.3.0
+scikit-learn==1.7.2
+scipy==1.15.3
+matplotlib==3.10.9
+seaborn==0.13.2
+joblib==1.5.1
+nltk==3.9.4
+reportlab==3.6.8
+google-generativeai==0.8.6

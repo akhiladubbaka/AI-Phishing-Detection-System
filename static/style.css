@@ -1,0 +1,64 @@
+body{
+
+background:#0f172a;
+
+font-family:Arial;
+
+color:white;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+height:100vh;
+
+}
+
+.container{
+
+background:#1e293b;
+
+padding:40px;
+
+border-radius:12px;
+
+width:600px;
+
+text-align:center;
+
+}
+
+input{
+
+width:90%;
+
+padding:12px;
+
+margin-top:20px;
+
+font-size:18px;
+
+}
+
+button{
+
+padding:12px 25px;
+
+margin-top:20px;
+
+font-size:18px;
+
+cursor:pointer;
+
+}
+
+.ai-box{
+    margin-top:20px;
+    padding:20px;
+    border-radius:10px;
+    background:#5ea4e1;
+    border-left:6px solid #0077ff;
+    line-height:1.7;
+}
